@@ -1,0 +1,10 @@
+^C:\USERS\EVIAN\DOCUMENTS\PROJECT ANDROID\PROFIL_INSTAGRAM\BUILD\WINDOWS\CMAKEFILES\AE89D321694964583E7E14860EF11C05\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Evian/Documents/project android/profil_instagram/windows" "-BC:/Users/Evian/Documents/project android/profil_instagram/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Evian/Documents/project android/profil_instagram/build/windows/profil_instagram.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

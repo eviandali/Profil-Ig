@@ -1,0 +1,10 @@
+^C:\USERS\EVIAN\DOCUMENTS\PROJECT ANDROID\PROFIL_INSTAGRAM\BUILD\WINDOWS\CMAKEFILES\AE89D321694964583E7E14860EF11C05\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

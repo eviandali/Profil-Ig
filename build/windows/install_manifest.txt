@@ -1,0 +1,11 @@
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/assets/img/profil.jpg
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Evian/Documents/project android/profil_instagram/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
